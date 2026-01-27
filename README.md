@@ -1,6 +1,15 @@
-# Avengers
+# Curso: Git y GitHub (Avengers)
 
-El cuartel general de los Avengers para aprender Git y GitHub
+Repositorio creado como parte de un **curso de Git y GitHub**, usando nombres creativos para practicar el flujo de trabajo con repositorios, ramas y control de versiones.
 
-## Nota
-Toda la información aquí utilizada sale de Wikipedia y Marvel.com
+## 🎯 Objetivo
+- Aprender el uso de Git
+- Comprender el flujo de trabajo con GitHub
+- Practicar commits, ramas y repositorios remotos
+
+## 🛠️ Tecnologías
+- Git
+- GitHub
+
+## 📌 Estado
+Curso finalizado / en progreso
